@@ -1,8 +1,8 @@
 
 # Adder Subtractor
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px; width: 100px; margin: 20px auto;">
-  <img src="./public/brand.PNG" alt="Project Logo" style="max-height: 100%; max-width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100px; width: 100%; margin: 20px auto;">
+  <img src="./public/brand.PNG" alt="Project Logo" style="max-height: 100px; max-width: 100px;">
 </div>
 
 
