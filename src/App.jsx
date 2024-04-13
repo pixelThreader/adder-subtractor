@@ -30,7 +30,7 @@ export function App() {
             <section className="text-gray-400 body-font h-full">
                 <div className="container px-3 pt-10 mx-auto">
                     <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
-                        <img src="../public/brand.PNG" alt="" height={100} width={100} />
+                        <img src="./public/brand.PNG" alt="" height={100} width={100} />
                         <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">
                             Adder Subtractor
                         </h1>

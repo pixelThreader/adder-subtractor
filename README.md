@@ -29,7 +29,7 @@ Adder Subtractor is a simple React application for learning addition and subtrac
 **Age:** 20 
 
 
-I'm a a passionate web developer with a keen interest in modern web technologies. With a dedication to learning and exploring new concepts in web development.
+I'm a passionate web developer with a keen interest in modern web technologies. With a dedication to learning and exploring new concepts in web development.
 
 ---
 
